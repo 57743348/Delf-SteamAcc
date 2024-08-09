@@ -1,0 +1,10 @@
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\bin\Debug\SteamAcc.exe.config
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\bin\Debug\SteamAcc.exe
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\bin\Debug\SteamAcc.pdb
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.csproj.AssemblyReference.cache
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.Form1.resources
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.Properties.Resources.resources
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.csproj.GenerateResource.cache
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.csproj.CoreCompileInputs.cache
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.exe
+C:\Users\qqewe\source\repos\SteamAcc\SteamAcc\obj\Debug\SteamAcc.pdb
